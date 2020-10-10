@@ -1,0 +1,7 @@
+bin
+dist
+vendor
+*.log
+.idea
+.vscode
+__debug*
